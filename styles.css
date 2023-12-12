@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap');
-
+/*styles*/
 * {
     margin: 0;
     padding: 0;
@@ -88,6 +88,7 @@ form {
     cursor: pointer;
     display: none;
 }
+/*responsiveness*/
 @media screen and (max-width: 768px) {
     .search-results {
         padding: 20px;
