@@ -3,7 +3,7 @@
 # Image Search App
 
 Welcome to the Image Search App! This application allows users to search for images based on keywords and browse through the results.
-
+You can search any thing you want to grab it's image and use it in your projects.
 ## Demo
 
 Visit our live demo using this url: https://api-group-21.vercel.app/
